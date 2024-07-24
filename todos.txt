@@ -1,4 +1,4 @@
 add new items to list
-but a table
+buy a table
 create an empty file
 Host app in cloud
